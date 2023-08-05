@@ -40,5 +40,5 @@ This repository is licensed under the [MIT License](LICENSE).
 
 Happy coding!
 
-[Vibha Thakur]
-[vibhathakur1297@gmail.com]
+Vibha Thakur
+vibhathakur1297@gmail.com
