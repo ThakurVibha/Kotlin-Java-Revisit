@@ -32,13 +32,8 @@ Feel free to explore the programs in both Java and Kotlin. You can run the code 
 
 Contributions are welcome! If you'd like to add more programs or make improvements, feel free to create a pull request.
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
-
 ---
 
 Happy coding!
 
-Vibha Thakur
 vibhathakur1297@gmail.com
