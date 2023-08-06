@@ -5,17 +5,17 @@ This repository contains a collection of Object-Oriented Programming (OOP) pract
 ## Java Programs
 
 - `Example.java`: A basic Java class demonstrating the structure of a class, constructor, and method definitions.
-- `InheritanceDemo.java`: Illustrates inheritance with parent and child classes, showcasing method overriding.
-- `PolymorphismDemo.java`: Demonstrates polymorphism through method overloading and interfaces.
+- `InheritanceDemo.java`: Illustrates javafromzero.inheritance with parent and child classes, showcasing method overriding.
+- `PolymorphismDemo.java`: Demonstrates javafromzero.polymorphism through method overloading and interfaces.
 - `EncapsulationDemo.java`: Highlights encapsulation by using private fields and public methods.
-- `AbstractionDemo.java`: Introduces abstraction using abstract classes and methods.
+- `AbstractionDemo.java`: Introduces javafromzero.abstraction using abstract classes and methods.
 
 ## Kotlin Programs
 
 - `KotlinBasics.kt`: Covers basic Kotlin syntax, nullable types, and safe null handling.
 - `DataClasses.kt`: Introduces Kotlin's data classes for concise POJO creation.
-- `Inheritance.kt`: Translates the Java inheritance example into Kotlin.
-- `Interfaces.kt`: A Kotlin version of the polymorphism example, showcasing interfaces and method overriding.
+- `Inheritance.kt`: Translates the Java javafromzero.inheritance example into Kotlin.
+- `Interfaces.kt`: A Kotlin version of the javafromzero.polymorphism example, showcasing interfaces and method overriding.
 - `NullableTypes.kt`: Explores Kotlin's nullable types and safe call operator.
 
 ## Usage
