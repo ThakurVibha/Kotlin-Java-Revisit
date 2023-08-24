@@ -1,0 +1,6 @@
+package kotlinfromzero
+
+fun main(){
+
+
+}
